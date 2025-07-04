@@ -17,4 +17,4 @@
 
 随着智能手机、平板等设备的普及，越来越多的用户通过这些设备观看视频。因此，选择一个支持多种设备观看的平台非常重要。无论是在家用电视观看，还是外出时通过手机观看，优质平台应该确保在不同设备上提供稳定流畅的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250704/fkt12 ）</span>
